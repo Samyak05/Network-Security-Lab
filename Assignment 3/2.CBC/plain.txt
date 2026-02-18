@@ -1,0 +1,1 @@
+user=guest;role=user;uid=1001
